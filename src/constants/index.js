@@ -118,7 +118,7 @@ import {
   const experiences = [
     {
       title: "UI/UX Developer",
-      company_name: "XS CAD LIMITED",
+      company_name: "Axium Global Pvt Ltd",
       icon: tesla,
       iconBg: "grey",
       date: "Aug 2023 - Present",
