@@ -148,7 +148,7 @@ import {
       company_name: "HUDL SPORTSTEC",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jun 2018 - 2019",
+      date: "Jun 2018 - Apr 2020",
       points: [
         "Responsible for tagging different sports like American Football, Volleyball, Basketball, Soccer, Lacrosse, and Ice Hockey on Hudl Assist platform.",
         "Quality checking of tagged games.",
